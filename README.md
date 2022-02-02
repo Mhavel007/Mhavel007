@@ -2,11 +2,13 @@
 
 
 Olá! 👋
-Meu nome é Marcos Havel, estou estudando Desenvolvimento Web e sou apaixonado por esse mundo da tecnologia.
+Meu nome é Marcos Havel, estou estudando Desenvolvimento Web na Rocketseat e sou apaixonado por esse mundo da tecnologia.
 
-💼 Desenvolvedor Front-end.
+💼 Desenvolvedor Front-end Jr.
 
-💙 Techs: JavaScript, HTML, CSS, Figma, entre outras.
+💙 Techs Dominantes: JavaScript, HTML, CSS e Figma.
+
+💙 Techs que estou Estudando: Reactjs, Bootstrap e Next. 
 
 💬 Pergunte-me sobre: tecnologia, memes, games e futebol.
 
